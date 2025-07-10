@@ -12,6 +12,15 @@ VoiceTutor AI is an agentic, real-time, voice-based chatbot built for interactiv
 - 🧠 Agentic Orchestration with LangGraph
 - 🔊 Offline Text-to-Speech with pyttsx3
 
+##  Getting Started
+
+Follow these steps to set up and run the project locally.
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/Akleema09/Edtech-agentic-chatbot.git
+cd Edtech-agentic-chatbot
+
 
 ## 🚀 Getting Started
 
