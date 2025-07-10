@@ -1,0 +1,50 @@
+# pydantic 
+# langchain
+# langgraph
+# langchain-core
+# langchain-community
+# python-dotenv
+# langchain-groq
+# arxiv
+# wikipedia
+# streamlit
+# TTS
+# sounddevice
+# soundfile
+# torch
+# torchaudio
+
+
+# Core Agent Framework
+langchain
+langgraph
+langchain-core
+langchain-community
+langchain-groq
+python-dotenv
+
+# Tools for Retrieval
+arxiv
+wikipedia
+tavily-python
+
+# Web UI
+streamlit
+
+# STT (Speech-to-Text)
+openai-whisper
+
+# VAD (Voice Activity Detection)
+torch
+torchaudio
+silero-vad
+
+# TTS (Text-to-Speech replacement for Coqui)
+pyttsx3
+
+# Audio Handling
+soundfile
+sounddevice
+
+# Utilities
+numpy
